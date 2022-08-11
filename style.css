@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+h1, #sound1,#sound2,#sound3,#sound4{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#sound1,#sound2,#sound3,#sound4{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
